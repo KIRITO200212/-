@@ -6,6 +6,10 @@
 
 通过IDE或命令行编译后运行$main.py$文件
 如果只需要单一功能，也可以只运行一个$qt$文件
+需要下载到项目中的模型链接：
+https://drive.google.com/file/d/1p4ND4-P24H-NkOnQS1hDE82aUpbdgz08/view?usp=sharing
+
+https://drive.google.com/file/d/1e52E2I5h-0-_mOnjW6nmnsvkfIXRALS0/view?usp=sharing
 
 ## 界面
 
