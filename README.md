@@ -14,12 +14,11 @@ https://drive.google.com/file/d/1e52E2I5h-0-_mOnjW6nmnsvkfIXRALS0/view?usp=shari
 ## 界面
 
 ### 主界面
-
-![,](/api/attachments/5807209?type=image/png)
+![image](https://github.com/KIRITO200212/-/assets/127740781/b9c49bcb-8d81-47b6-b00e-5f228dd5a06b)
 
 ### 功能界面
 
-![,](/api/attachments/5807255?type=image/png)
+![image](https://github.com/KIRITO200212/-/assets/127740781/b63c2eda-6571-4d4e-b5dc-b7d8be240611)
 
 ## 效果
 
